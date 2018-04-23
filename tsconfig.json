@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+        "outDir": "./dist/",
+        "sourceMap": true,
+        "noImplicitAny": false,
+        "jsx": "react"
+    },
+    "files": [
+        "./src/app.tsx"
+    ]
+}

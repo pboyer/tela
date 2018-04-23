@@ -1,0 +1,53 @@
+@font-face {
+  font-family: "Artifakt Legend";
+  font-style: normal;
+  font-weight: 200;
+  src: url("Artifakt Legend Light.woff2") format("woff2"),
+    url("Artifakt Legend Light.woff") format("woff"),
+    url("Artifakt Legend Light.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Artifakt Element";
+  font-style: normal;
+  font-weight: 800;
+  src: url("Artifakt Element Black.woff2") format("woff2"),
+    url("Artifakt Element Black.woff") format("woff"),
+    url("Artifakt Element Black.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Artifakt Element";
+  font-style: normal;
+  font-weight: 700;
+  src: url("Artifakt Element Bold.woff2") format("woff2"),
+    url("Artifakt Element Bold.woff") format("woff"),
+    url("Artifakt Element Bold.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Artifakt Element";
+  font-style: normal;
+  font-weight: 500;
+  src: url("Artifakt Element Medium.woff2") format("woff2"),
+    url("Artifakt Element Medium.woff") format("woff"),
+    url("Artifakt Element Medium.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Artifakt Element";
+  font-style: normal;
+  font-weight: 400;
+  src: url("Artifakt Element Regular.woff2") format("woff2"),
+    url("Artifakt Element Regular.woff") format("woff"),
+    url("Artifakt Element Regular.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Artifakt Element";
+  font-style: normal;
+  font-weight: 200;
+  src: url("Artifakt Element Light.woff2") format("woff2"),
+    url("Artifakt Element Light.woff") format("woff"),
+    url("Artifakt Element Light.ttf") format("truetype");
+}
